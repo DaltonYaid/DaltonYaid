@@ -15,7 +15,7 @@ Thank you for visiting my profile! I'm excited about what the future holds, and 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/@unchurcomas](https://www.instagram.com/unchurcomas?igsh=Y3Z4YmRtdHhzcHF6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/dalton-yaid-torres-rondón-5b3251230) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/@unchurcomass?igsh=Y3Z4YmRtdHhzcHF6]) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/dalton-yaid-torres-rondón-5b3251230) 
 
 
 
