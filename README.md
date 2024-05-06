@@ -13,7 +13,7 @@ Soy Dalton Yaid, un joven de 22 años proveniente de mi tierra colombiana, espec
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonYaid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<[img src='https://randommeme-five.vercel.app/' style="height: 400px;"](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgamerant.com%2Ffunny-jujutsu-kaisen-memes%2F&psig=AOvVaw29NVoHoTi33VzkjGqTWSh2&ust=1715058084575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjay9Wf-IUDFQAAAAAdAAAAABAE)/>
+<![image](https://github.com/DaltonYaid/DaltonYaid/assets/116469382/42240567-3f35-44b9-afb7-56642921bda6)>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DaltonYaid&icon=0&color=0)](https://visitcount.itsvg.in)
