@@ -35,9 +35,9 @@ Thank you for visiting my profile! I'm excited about what the future holds, and 
 
 
 ### 😂 Just a Meme
-<![image](https://github.com/DaltonYaid/DaltonYaid/assets/116469382/42240567-3f35-44b9-afb7-56642921bda6)>
+![image](https://github.com/DaltonYaid/DaltonYaid/assets/116469382/42240567-3f35-44b9-afb7-56642921bda6)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DaltonYaid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
