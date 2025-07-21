@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Dalton Yaid, a 22-year-old young man from my Colombian homeland, specifically from the city of Bogota. I consider myself an eternal learner, always eager to acquire new knowledge and skills.
+I'm Dalton Yaid, a 23-year-old young man from my Colombian homeland, specifically from the city of Bogota. I consider myself an eternal learner, always eager to acquire new knowledge and skills.
 
 My journey in the world of technology is in constant evolution. Currently, I'm exploring the vast possibilities of languages. But I don't limit myself to what I already know; I'm willing to immerse myself in any knowledge needed to achieve new goals and challenges.
 
